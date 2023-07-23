@@ -35,6 +35,7 @@ Application screenshots:
 
 
 Mobile: 
+
 ![Zrzut ekranu 2023-07-23 124209](https://github.com/danielprwn/car-web-next-react/assets/92208474/5226e840-d64c-4f73-b808-bf81ff397d3b)
 
 ![Zrzut ekranu 2023-07-23 124641](https://github.com/danielprwn/car-web-next-react/assets/92208474/43012113-62a3-47ca-ab82-883fd613cb63)
