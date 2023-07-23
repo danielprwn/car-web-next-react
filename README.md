@@ -1,4 +1,14 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Car Booking Web Application. 
+
+✔ Ability to searching and filtering cars.
+✔ Show more cars.
+✔ Show more details.
+✔ Update URL params.
+
+## Technologies 
+⚛ React JS ✅ Next JS 🟦 TypeScript ✅ Tailwind CSS
+
+Download the repository and run it locally:
 
 ## Getting Started
 
@@ -14,21 +24,19 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Application screenshots: 
 
-## Learn More
+![screencapture-localhost-3000-2023-07-23-12_50_40](https://github.com/danielprwn/car-web-next-react/assets/92208474/6f9e5ce1-1ee3-4fb6-974d-b1cafbb3e534)
 
-To learn more about Next.js, take a look at the following resources:
+![screencapture-localhost-3000-2023-07-23-12_51_00](https://github.com/danielprwn/car-web-next-react/assets/92208474/9fbd1806-b836-415a-ba4c-099c83f10a7d)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+![Zrzut ekranu 2023-07-23 124051](https://github.com/danielprwn/car-web-next-react/assets/92208474/63c9d950-4a65-4364-960a-24a6d5a3ba07)
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
 
-## Deploy on Vercel
+Mobile: 
+![Zrzut ekranu 2023-07-23 124209](https://github.com/danielprwn/car-web-next-react/assets/92208474/5226e840-d64c-4f73-b808-bf81ff397d3b)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+![Zrzut ekranu 2023-07-23 124641](https://github.com/danielprwn/car-web-next-react/assets/92208474/43012113-62a3-47ca-ab82-883fd613cb63)
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
