@@ -5,6 +5,8 @@
 ✔ Show more details.
 ✔ Update URL params.
 
+Link to Vercel deployment: https://car-web-next-react-hyct1raiu-danielprwn.vercel.app/?vercelToolbarCode=Up3fg59SB3gGWp8
+
 ## Technologies 
 ⚛ React JS ✅ Next JS 🟦 TypeScript ✅ Tailwind CSS
 
